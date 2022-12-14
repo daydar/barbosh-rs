@@ -1,3 +1,3 @@
 # barbosh-rs
 
-a Discord bot for playing sound files for barbosh
+A Discord bot for playing sound files for barbosh
